@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "master"]
+	appid = 45ccccbe-d0d2-4d37-b746-68b72957c78e
+[user]
+	email = admin@senseops.com
+	name = rajasekarv
