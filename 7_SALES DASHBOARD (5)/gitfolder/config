@@ -14,3 +14,5 @@
 [user]
 	name = rajasekarv
 	email = admin@senseops.com
+[branch "hu8"]
+	vscode-merge-base = origin/master
