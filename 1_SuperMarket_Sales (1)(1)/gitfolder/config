@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "master"]
+	metaData = {appId:cb89765b-65df-4fb5-9ec0-3f5956d0c2e5,serverId:4,streamId:Work,parentBranchName:null,userId:1}
+[user]
+	email = admin@senseops.com
+	name = rajasekarv
