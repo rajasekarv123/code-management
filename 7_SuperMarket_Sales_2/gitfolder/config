@@ -18,3 +18,5 @@
 	metaData = {appId:f41812cf-d882-4f76-bd55-77aaaadddfd4,serverId:4,streamId:Work,parentBranchName:master,userId:1}
 [branch "fe"]
 	metaData = {appId:931c8bf8-8d6f-40c9-9d92-bd0e7213d300,serverId:4,streamId:Work,parentBranchName:master,userId:1}
+[branch "B-8"]
+	metaData = {appId:85fb9315-01f3-4abc-a0bb-12cdf9271795,serverId:4,streamId:Work,parentBranchName:master,userId:1}
