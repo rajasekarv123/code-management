@@ -10,3 +10,5 @@
 [user]
 	email = admin@senseops.com
 	name = rajasekarv
+[branch "B1"]
+	metaData = {appId:b30f9f72-4df2-483d-ba11-768c8897fd6e,serverId:4,streamId:Work,parentBranchName:master,userId:1}
