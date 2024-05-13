@@ -11,16 +11,4 @@
 	email = admin@senseops.com
 	name = rajasekarv
 [branch "B1"]
-	metaData = {appId:574c273c-bc78-4995-827a-ae58280d56b7,serverId:4,streamId:Work,parentBranchName:master,userId:1}
-[branch "B2"]
-	metaData = {appId:cd03376a-bc13-442a-965a-c2946c64c2a9,serverId:4,streamId:Work,parentBranchName:master,userId:1}
-[branch "B3"]
-	metaData = {appId:4eeb6d81-2da9-4e47-a2f3-b1452ee47f59,serverId:4,streamId:Work,parentBranchName:master,userId:1}
-[branch "B4"]
-	metaData = {appId:0f3a93f8-290d-4089-998c-6fee3c287780,serverId:4,streamId:Work,parentBranchName:master,userId:1}
-[branch "B5"]
-	metaData = {appId:c7c0e406-c2e3-40f0-98e2-dfcf299f84d3,serverId:4,streamId:Work,parentBranchName:master,userId:1}
-[branch "B6"]
-	metaData = {appId:7eef843c-8ef1-4c11-aae4-0d8cb0749f1f,serverId:4,streamId:Work,parentBranchName:master,userId:1}
-[branch "B7"]
-	metaData = {appId:1e3f975d-3bfd-4424-8b64-9373996977b0,serverId:4,streamId:Work,parentBranchName:master,userId:1}
+	metaData = {appId:444da385-d798-4f39-adcd-dfeef604c59f,serverId:4,streamId:Work,parentBranchName:master,userId:1}
