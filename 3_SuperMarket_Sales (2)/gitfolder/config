@@ -18,3 +18,5 @@
 	metaData = {appId:f045b320-1195-4ab0-8df9-684f6526773c,serverId:4,streamId:aaec8d41-5201-43ab-809f-3063750dfafd,parentBranchName:master,userId:1}
 [branch "B7"]
 	metaData = {appId:f790e3a6-db3b-4641-98c2-dbec9a5a32a1,serverId:4,streamId:aaec8d41-5201-43ab-809f-3063750dfafd,parentBranchName:master,userId:1}
+[branch "B78"]
+	metaData = {appId:55905ea3-e9a7-48b9-97fc-de314571344b,serverId:4,streamId:aaec8d41-5201-43ab-809f-3063750dfafd,parentBranchName:master,userId:1}
