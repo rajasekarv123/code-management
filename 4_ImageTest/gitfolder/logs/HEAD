@@ -6,3 +6,6 @@ e4056ddac33c16db727039690729767a0fc0cc95 1e5c6b8858a0e41e4b206b8131b415ab05ddf6e
 1e5c6b8858a0e41e4b206b8131b415ab05ddf6ec 80fddc8a7395d08655b7a459247945f11e0e023c rajasekarv <admin@senseops.com> 1716027203 +0530	checkout: moving from master to B1
 80fddc8a7395d08655b7a459247945f11e0e023c 1e5c6b8858a0e41e4b206b8131b415ab05ddf6ec rajasekarv <admin@senseops.com> 1716027274 +0530	checkout: moving from B1 to master
 1e5c6b8858a0e41e4b206b8131b415ab05ddf6ec 1e5c6b8858a0e41e4b206b8131b415ab05ddf6ec rajasekarv <admin@senseops.com> 1716027297 +0530	checkout: moving from master to master
+1e5c6b8858a0e41e4b206b8131b415ab05ddf6ec ec705d264d88eb9f309b202c35a5b8fef62bb94e rajasekarv <admin@senseops.com> 1716027355 +0530	checkout: moving from master to B2
+ec705d264d88eb9f309b202c35a5b8fef62bb94e 1e5c6b8858a0e41e4b206b8131b415ab05ddf6ec rajasekarv <admin@senseops.com> 1716027454 +0530	checkout: moving from B2 to master
+1e5c6b8858a0e41e4b206b8131b415ab05ddf6ec 1e5c6b8858a0e41e4b206b8131b415ab05ddf6ec rajasekarv <admin@senseops.com> 1716027513 +0530	checkout: moving from master to master
